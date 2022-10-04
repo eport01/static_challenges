@@ -1,0 +1,74 @@
+
+
+.navigation {
+  text-align: right;
+  color: white;
+  background-color: gray;
+  padding: 25px 25px 25px 25px;
+}
+
+#aside{
+  float: right;
+
+}
+.navwords {
+  display:inline;
+  font-weight: bold;
+
+}
+
+#headernav {
+  text-align: right;
+  padding-right: 25px;
+}
+
+#article {
+  margin: 25px 300px 40px 50px;
+}
+
+.header {
+  background-color: darkred;
+  color: white;
+  padding-left: 50px;
+  font-weight: bold;
+}
+
+.rightwords {
+  text-align: right;
+  padding-right: 25px;
+  margin: 25px 25px 25px 20px;
+  font-weight: bold;
+
+}
+
+.rightpic {
+  text-align: right;
+  padding-right: 25px;
+  margin: 5px 25px 25px 25px;
+
+}
+
+.footer {
+  background-color: gray;
+  color: white;
+  padding: 10px 20px 10px 20px;
+}
+
+#footwords {
+  margin: 25px 25px 25px 25px
+}
+
+#denverart {
+  padding-top: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  padding-right: 25px;
+}
+
+#artwords {
+  margin: 25px 25px 25px 25px;
+  font-weight: bold;
+
+}
+
+ 
